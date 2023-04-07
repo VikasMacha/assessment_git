@@ -1,1 +1,1 @@
-This is the main file for the feature 3 in the given assessment.
+This is the main file for feature-3 under given assessment.
